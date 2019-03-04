@@ -1,5 +1,3 @@
-<<<<<<<
 UserA and B edits here
->>>>>>> e758e0d50ff1fcf6fd1a09ea590c6c91f573dfa4
 of the second file that comprises
 our most excellent project.
